@@ -1,6 +1,7 @@
 # Nwitter
 
 Twitter (mini)clone with React and Firebase
+https://xy654123.github.io/nwitter
 
 # Getting Started with Create React App
 
